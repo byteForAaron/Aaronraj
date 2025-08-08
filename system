@@ -1,0 +1,19 @@
+3. Important Git terms
+Commit – Saves your changes to local Git.
+
+Push – Sends local commits to GitHub.
+
+Pull – Brings commits from GitHub to your computer.
+
+Rebase – Puts your commits on top of remote commits (keeps history clean).
+
+Stash – Temporarily hides changes so you can work with a clean branch.
+
+4. Quick Commands Table
+Action	Command
+Save changes	git add . && git commit -m "msg"
+Pull updates	git pull origin main --rebase
+Push changes	git push origin main
+Temporarily save work	git stash
+Restore stashed work	git stash pop
+

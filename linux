@@ -1,0 +1,11 @@
+cd – Change to another directory location
+ls – List directory contents
+cp – Copy a file or directory to another location
+pwd – Print the current working directory
+info – The GNU alternative to man
+man – The standard unix documentation system
+mkdir – Make a directory
+mv – Move or rename a file or directory
+rmdir – Delete an empty directory
+touch – Create a new file or update its modification time
+rm – Delete a file or directory tree
